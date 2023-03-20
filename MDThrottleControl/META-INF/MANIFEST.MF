@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Built-By: Tony Lu
+Created-By: 1.0.0
+Main-Class: market.data.SimpleTestServer
