@@ -35,6 +35,7 @@ Profiles are stored in config.ini
 - number of feed: how many total number of market data update from a thread
 - instrumentFile: the list of instruments
 
+```
 [profile1]
 numThread=1
 throttleThreshold=100
@@ -52,5 +53,5 @@ numThread=1
 throttleThreshold=10
 numFeed=100
 instrumentFile=
-
+```
 
